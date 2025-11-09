@@ -1,5 +1,7 @@
 # hybrid-rag-platform
 
+![CI](https://github.com/TryKosm/hybrid-rag-platform/actions/workflows/ci.yml/badge.svg)
+
 Hybrid RAG pipeline that combines structured filters with semantic retrieval.
 
 [![CI](https://github.com/TryKosm/hybrid-rag-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/hybrid-rag-platform/actions/workflows/ci.yml)
