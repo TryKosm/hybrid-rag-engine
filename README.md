@@ -1,10 +1,12 @@
-# hybrid-rag-platform
+# Hybrid Rag Engine
 
-![CI](https://github.com/TryKosm/hybrid-rag-platform/actions/workflows/ci.yml/badge.svg)
+Structured filters plus semantic retrieval in one RAG pipeline.
+
+![CI](https://github.com/TryKosm/hybrid-rag-engine/actions/workflows/ci.yml/badge.svg)
 
 Hybrid RAG pipeline that combines structured filters with semantic retrieval.
 
-[![CI](https://github.com/TryKosm/hybrid-rag-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/hybrid-rag-platform/actions/workflows/ci.yml)
+[![CI](https://github.com/TryKosm/hybrid-rag-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/TryKosm/hybrid-rag-engine/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Why this exists
